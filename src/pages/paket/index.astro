@@ -1,0 +1,43 @@
+---
+import Base from '../../layouts/Base.astro';
+import { withBase, JALURS } from '../../config/site';
+import { PAKETS, hitungTopik, paketByJalur } from '../../lib/paket';
+---
+
+<Base title="Paket Latihan Soal Tes Akademik Polri" description="Semua paket latihan PrediksiPolri: prediksi soal tes akademik Bintara dan Akpol (tingkat daerah), disusun dari daftar mata uji resmi pengumuman penerimaan Polri, lengkap dengan kunci dan pembahasan." path="/paket/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>paket latihan</span></nav>
+  <h1>Paket Latihan Soal Tes Akademik Polri</h1>
+  <p class="lead">
+    Setiap paket adalah soal latihan orisinal dengan komposisi mengikuti daftar mata uji resmi jalurnya.
+    Klik jawaban dan hasilmu langsung ketahuan, lengkap dengan pembahasannya — atau cetak paketnya untuk dikerjakan di kertas.
+  </p>
+
+  {JALURS.map((j) => (
+    <section>
+      <h2>{j.nama}</h2>
+      <p class="lead">{j.deskripsi}</p>
+      {paketByJalur(j.slug).length > 0 ? (
+        <div class="card-grid">
+          {paketByJalur(j.slug).map((p) => (
+            <a class="paket-card" href={withBase(`/paket/${p.slug}/`)}>
+              <h3>{p.judul}</h3>
+              <p class="komposisi">{hitungTopik(p).map((k) => `${k.topik} ${k.jumlah}`).join(' · ')}</p>
+              <span class="jumlah">{p.soal.length} soal · ±{p.durasiMenit} menit · ada pembahasan</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="lead">Paket contoh untuk jalur ini belum dibuat pada versi demo. Komposisi mata ujinya: {j.mataUjiDaerah.join(' · ')}. {j.catatan}</p>
+      )}
+    </section>
+  ))}
+
+  <section>
+    <h2>Belum yakin mulai dari mana?</h2>
+    <p class="lead">
+      Baca dulu <a href={withBase('/kisi-kisi/')}>kisi-kisi dan matriks mata uji per jalur</a> — di sana dijelaskan
+      perbedaan daftar mata uji Akpol tingkat daerah dan pusat, Bintara, Tamtama, dan catatan untuk Bakomsus.
+      Total soal yang tersedia saat ini: {PAKETS.reduce((s, p) => s + p.soal.length, 0)} soal.
+    </p>
+  </section>
+</Base>

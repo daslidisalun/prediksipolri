@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase } from '../config/site';
+---
+
+<Base title="404 — Halaman Tidak Ditemukan" description="Halaman yang kamu cari tidak ditemukan di PrediksiPolri." path="/404/">
+  <h1>404 — Halaman tidak ditemukan</h1>
+  <p class="lead">
+    Alamat yang kamu tuju tidak ada di {SITE_NAME}. Mungkin tautannya sudah berubah atau paketnya belum dibuat.
+  </p>
+  <div class="hero-cta">
+    <a class="btn gold" href={withBase('/paket/')}>Lihat paket latihan</a>
+    <a class="btn ghost" href={withBase('/')}>Kembali ke beranda</a>
+  </div>
+</Base>

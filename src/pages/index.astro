@@ -1,0 +1,90 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase, JALURS } from '../config/site';
+import { PAKETS, hitungTopik, totalSoal } from '../lib/paket';
+---
+
+<Base title={SITE_NAME} path="/">
+  <section class="hero">
+    <h1 class="fade-up">Prediksi Soal <span class="sorot">Tes Akademik Polri</span> — Latihan CAT Akpol, Bintara &amp; Tamtama</h1>
+    <p class="lead fade-up d1">
+      Latihan soal yang disusun dari <strong>daftar mata uji resmi</strong> dalam pengumuman penerimaan Polri —
+      Pengetahuan Umum, Wawasan Kebangsaan, Penalaran Numerik, Bahasa Indonesia, dan Bahasa Inggris —
+      lengkap dengan kunci jawaban dan pembahasan. Klik jawaban, hasilnya langsung ketahuan.
+    </p>
+    <div class="hero-cta fade-up d2">
+      <a class="btn gold" href={withBase('/paket/bintara-akademik/')}>Mulai Latihan Bintara (50 soal)</a>
+      <a class="btn ghost" href={withBase('/paket/akpol-daerah/')}>Latihan Akpol (40 soal)</a>
+    </div>
+    <div class="trust-row fade-up d2">
+      <span class="chip">Soal latihan orisinal — bukan bocoran</span>
+      <span class="chip">Berdasarkan pengumuman resmi penerimaan Polri</span>
+      <span class="chip">Tidak berafiliasi dengan Polri</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Paket latihan contoh</h2>
+    <p class="lead">Dua paket contoh untuk menilai pola dan tingkat kesulitannya. Setiap paket meniru komposisi mata uji jalurnya.</p>
+    <div class="card-grid">
+      {PAKETS.map((p) => (
+        <a class="paket-card" href={withBase(`/paket/${p.slug}/`)}>
+          <h3>{p.judul}</h3>
+          <p class="komposisi">{hitungTopik(p).map((k) => `${k.topik} ${k.jumlah}`).join(' · ')}</p>
+          <span class="jumlah">{p.soal.length} soal · ±{p.durasiMenit} menit · ada pembahasan</span>
+        </a>
+      ))}
+    </div>
+    <p><a href={withBase('/paket/')}>Lihat semua paket latihan →</a></p>
+  </section>
+
+  <section>
+    <h2>Tiga jalur, tiga komposisi mata uji</h2>
+    <div class="card-grid">
+      {JALURS.map((j) => (
+        <div class="paket-card">
+          <h3>{j.nama}</h3>
+          <p>{j.deskripsi}</p>
+          <p class="komposisi"><strong>Mata uji akademik:</strong> {j.mataUjiDaerah.join(' · ')}</p>
+          <span class="jumlah">{j.catatan}</span>
+        </div>
+      ))}
+    </div>
+    <p>Rincian lengkap per jalur, termasuk perbedaan tingkat daerah dan pusat untuk Akpol, ada di <a href={withBase('/kisi-kisi/')}>halaman kisi-kisi</a>.</p>
+  </section>
+
+  <section>
+    <h2>Kenapa kata "prediksi" di situs ini jujur</h2>
+    <div class="langkah-grid">
+      <div class="langkah">
+        <div class="angka">01</div>
+        <h3>Panitia tidak menerbitkan soal</h3>
+        <p>Tidak ada arsip soal seleksi Polri yang dirilis resmi. Bank soal CAT bersifat rahasia — situs mana pun yang mengaku punya "bocoran soal asli" sedang tidak jujur kepadamu.</p>
+      </div>
+      <div class="langkah">
+        <div class="angka">02</div>
+        <h3>Yang resmi adalah daftar mata ujinya</h3>
+        <p>Pengumuman penerimaan Polri di penerimaan.polri.go.id mencantumkan mata uji setiap jalur. Dari daftar itulah soal-soal latihan di sini disusun.</p>
+      </div>
+      <div class="langkah">
+        <div class="angka">03</div>
+        <h3>Soalnya orisinal, faktanya publik</h3>
+        <p>Seluruh soal ditulis sendiri di atas fakta publik — teks UUD 1945, Pancasila, UU No. 2 Tahun 2002 tentang Kepolisian, dan materi sekolah — lengkap dengan pembahasan, bukan sekadar kunci.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Total {totalSoal()} soal latihan untuk memulai</h2>
+    <p class="lead">
+      Kerjakan paketnya secara berurutan, catat mata uji dengan skor terendah, lalu perdalam materinya di
+      <a href={withBase('/kisi-kisi/')}> halaman kisi-kisi</a>. Ingat: pendaftaran dan seluruh seleksi resmi Polri
+      <strong>tidak dipungut biaya</strong> dan hanya melalui penerimaan.polri.go.id.
+    </p>
+    <div class="note-box narrow">
+      <p><strong>Penegasan:</strong> {SITE_NAME} adalah situs latihan mandiri. Kami tidak berafiliasi dengan Kepolisian
+      Negara Republik Indonesia, tidak menjual akses seleksi, dan tidak dapat menjamin kelulusan siapa pun.
+      Baca <a href={withBase('/disclaimer/')}>disclaimer lengkapnya</a>.</p>
+    </div>
+  </section>
+</Base>

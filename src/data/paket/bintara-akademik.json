@@ -1,0 +1,609 @@
+{
+  "slug": "bintara-akademik",
+  "jalur": "bintara",
+  "judul": "Prediksi Soal Tes Akademik Bintara Polri",
+  "durasiMenit": 75,
+  "intro": "Prediksi soal tes akademik Bintara Polri berdasarkan daftar mata uji dalam pengumuman resmi penerimaan Polri: 50 soal latihan orisinal — Pengetahuan Umum 12 soal (termasuk dasar-dasar UU No. 2 Tahun 2002 tentang Kepolisian), Wawasan Kebangsaan 13 soal, Penalaran Numerik 13 soal, dan Bahasa Inggris 12 soal. Setiap soal dilengkapi kunci jawaban dan pembahasan; soal numerik dihasilkan generator dengan kunci yang terhitung program. Paket ini adalah latihan mandiri, bukan bocoran dan bukan soal resmi seleksi.",
+  "soal": [
+    {
+      "tanya": "Menurut Pasal 5 ayat (1) UU No. 2 Tahun 2002, Kepolisian Negara Republik Indonesia adalah alat negara yang berperan memelihara keamanan dan ketertiban masyarakat, menegakkan hukum, serta memberikan … kepada masyarakat.",
+      "pilihan": [
+        "perlindungan, pengayoman, dan pelayanan",
+        "pengamanan, penindakan, dan penyidikan",
+        "pembinaan, pengawasan, dan penindakan",
+        "pelayanan, perizinan, dan pengawasan"
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 5 ayat (1) UU No. 2 Tahun 2002 merumuskan peran Polri: memelihara keamanan dan ketertiban masyarakat, menegakkan hukum, serta memberikan perlindungan, pengayoman, dan pelayanan kepada masyarakat.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Tugas pokok Kepolisian Negara Republik Indonesia — memelihara keamanan dan ketertiban masyarakat, menegakkan hukum, dan memberikan perlindungan, pengayoman, dan pelayanan kepada masyarakat — diatur dalam UU No. 2 Tahun 2002 Pasal …",
+      "pilihan": [
+        "5",
+        "11",
+        "13",
+        "30"
+      ],
+      "kunci": 2,
+      "bahasan": "Pasal 13 UU No. 2 Tahun 2002 memuat tiga tugas pokok Polri. Pasal 5 mengatur peran, Pasal 11 mengatur pengangkatan Kapolri, dan Pasal 30 mengatur pemberhentian anggota.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Kepala Kepolisian Negara Republik Indonesia (Kapolri) memimpin Polri dan dalam pelaksanaan tugasnya bertanggung jawab kepada …",
+      "pilihan": [
+        "Menteri Pertahanan",
+        "Dewan Perwakilan Rakyat",
+        "Mahkamah Agung",
+        "Presiden"
+      ],
+      "kunci": 3,
+      "bahasan": "Menurut UU No. 2 Tahun 2002, Kapolri diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR, dan Kapolri bertanggung jawab kepada Presiden.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Dalam jati diri Polri, Tribrata merupakan …",
+      "pilihan": [
+        "sumpah jabatan anggota Polri",
+        "pedoman hidup Polri",
+        "lambang kesatuan Polri",
+        "pedoman kerja Polri"
+      ],
+      "kunci": 1,
+      "bahasan": "Tribrata adalah pedoman hidup Polri, sedangkan Catur Prasetya adalah pedoman kerja Polri. Keduanya menjadi landasan sikap dan perilaku setiap anggota Polri.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Hari Bhayangkara diperingati setiap tanggal …",
+      "pilihan": [
+        "1 Juni",
+        "20 Mei",
+        "5 Oktober",
+        "1 Juli"
+      ],
+      "kunci": 3,
+      "bahasan": "Hari Bhayangkara diperingati setiap 1 Juli, merujuk pada Penetapan Pemerintah tahun 1946 yang menyatukan kepolisian daerah menjadi Kepolisian Negara Republik Indonesia.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Kepolisian Daerah (Polda) adalah pelaksana tugas Polri di tingkat …",
+      "pilihan": [
+        "provinsi",
+        "kabupaten/kota",
+        "nasional",
+        "kecamatan"
+      ],
+      "kunci": 0,
+      "bahasan": "Struktur kewilayahan Polri: Mabes Polri di tingkat nasional, Polda di provinsi, Polres di kabupaten/kota, dan Polsek di kecamatan.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Bhabinkamtibmas adalah singkatan dari …",
+      "pilihan": [
+        "Bhayangkara Pembina Kamtibmas Masyarakat",
+        "Bhayangkara Pembina Keamanan dan Ketertiban Masyarakat",
+        "Bhayangkara Pembina Keamanan dan Ketertiban Massa",
+        "Bintara Pembina Keamanan dan Ketertiban Masyarakat"
+      ],
+      "kunci": 1,
+      "bahasan": "Bhabinkamtibmas adalah Bhayangkara Pembina Keamanan dan Ketertiban Masyarakat — anggota Polri yang bertugas membina keamanan dan ketertiban di desa/kelurahan binaannya.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Selat yang memisahkan Pulau Jawa dan Pulau Sumatra adalah Selat …",
+      "pilihan": [
+        "Makassar",
+        "Bali",
+        "Sunda",
+        "Karimata"
+      ],
+      "kunci": 2,
+      "bahasan": "Selat Sunda terletak di antara Pulau Jawa dan Pulau Sumatra. Selat Karimata memisahkan Sumatra dan Kalimantan, Selat Makassar memisahkan Kalimantan dan Sulawesi, dan Selat Bali memisahkan Jawa dan Bali.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Ibu kota negara Indonesia yang baru, yang dibangun di Kalimantan Timur, bernama …",
+      "pilihan": [
+        "Kalimantan Raya",
+        "Ibu Kota Timur",
+        "Nusantara",
+        "Penajam Baru"
+      ],
+      "kunci": 2,
+      "bahasan": "Berdasarkan UU No. 3 Tahun 2022, ibu kota negara Indonesia bernama Nusantara (IKN Nusantara), berlokasi di wilayah Kabupaten Penajam Paser Utara dan Kabupaten Kutai Kartanegara, Kalimantan Timur.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Lagu kebangsaan \"Indonesia Raya\" diciptakan oleh …",
+      "pilihan": [
+        "Wage Rudolf Soepratman",
+        "Kusbini",
+        "Ismail Marzuki",
+        "Cornel Simanjuntak"
+      ],
+      "kunci": 0,
+      "bahasan": "Indonesia Raya diciptakan oleh Wage Rudolf Soepratman dan pertama kali diperdengarkan pada Kongres Pemuda II, 28 Oktober 1928.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Naskah Proklamasi Kemerdekaan Indonesia yang dibacakan pada 17 Agustus 1945 diketik oleh …",
+      "pilihan": [
+        "B.M. Diah",
+        "Sayuti Melik",
+        "Sukarni",
+        "Chairul Saleh"
+      ],
+      "kunci": 1,
+      "bahasan": "Teks proklamasi disusun oleh Soekarno, Mohammad Hatta, dan Achmad Soebardjo, kemudian diketik oleh Sayuti Melik dengan beberapa perubahan kata dari tulisan tangan Soekarno.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Organisasi kepolisian internasional yang memfasilitasi kerja sama kepolisian lintas negara di seluruh dunia adalah …",
+      "pilihan": [
+        "ASEANAPOL",
+        "Europol",
+        "SEACOP",
+        "Interpol"
+      ],
+      "kunci": 3,
+      "bahasan": "Interpol (International Criminal Police Organization) adalah organisasi kerja sama kepolisian internasional tingkat dunia. ASEANAPOL hanya mencakup kawasan ASEAN dan Europol hanya kawasan Eropa.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Bunyi sila ketiga Pancasila adalah …",
+      "pilihan": [
+        "Keadilan sosial bagi seluruh rakyat Indonesia",
+        "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan",
+        "Kemanusiaan yang adil dan beradab",
+        "Persatuan Indonesia"
+      ],
+      "kunci": 3,
+      "bahasan": "Urutan sila Pancasila: (1) Ketuhanan Yang Maha Esa, (2) Kemanusiaan yang adil dan beradab, (3) Persatuan Indonesia, (4) Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, (5) Keadilan sosial bagi seluruh rakyat Indonesia.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Sila keempat Pancasila — Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan — dilambangkan dengan …",
+      "pilihan": [
+        "padi dan kapas",
+        "kepala banteng",
+        "pohon beringin",
+        "rantai emas"
+      ],
+      "kunci": 1,
+      "bahasan": "Pada perisai Garuda Pancasila: bintang melambangkan sila pertama, rantai sila kedua, pohon beringin sila ketiga, kepala banteng sila keempat, dan padi-kapas sila kelima.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Pembukaan UUD 1945 alinea keempat memuat, antara lain, …",
+      "pilihan": [
+        "tujuan negara dan dasar negara Pancasila",
+        "perlawanan terhadap penjajahan di atas dunia",
+        "bentuk negara kesatuan",
+        "pernyataan kemerdekaan Indonesia"
+      ],
+      "kunci": 0,
+      "bahasan": "Alinea keempat Pembukaan UUD 1945 memuat tujuan pembentukan pemerintahan negara (melindungi segenap bangsa, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, ikut melaksanakan ketertiban dunia) dan dasar negara Pancasila.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Menurut Pasal 1 ayat (2) UUD 1945, kedaulatan berada di tangan rakyat dan dilaksanakan …",
+      "pilihan": [
+        "oleh Presiden selaku kepala negara",
+        "oleh Majelis Permusyawaratan Rakyat",
+        "menurut Undang-Undang Dasar",
+        "menurut peraturan perundang-undangan"
+      ],
+      "kunci": 2,
+      "bahasan": "Setelah amendemen, Pasal 1 ayat (2) UUD 1945 berbunyi: \"Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar\" — MPR tidak lagi menjadi pelaksana sepenuhnya kedaulatan rakyat.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Pasal 27 ayat (3) UUD 1945 menyatakan bahwa setiap warga negara berhak dan wajib ikut serta dalam …",
+      "pilihan": [
+        "usaha perekonomian nasional",
+        "pemilihan umum",
+        "pembangunan daerah",
+        "upaya pembelaan negara"
+      ],
+      "kunci": 3,
+      "bahasan": "Pasal 27 ayat (3) UUD 1945: \"Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.\" Ketentuan ini menjadi dasar konseptual bela negara bagi seluruh warga, bukan hanya TNI dan Polri.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Menurut Pasal 30 ayat (2) UUD 1945, usaha pertahanan dan keamanan negara dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta oleh TNI dan Kepolisian Negara Republik Indonesia sebagai …",
+      "pilihan": [
+        "kekuatan utama",
+        "kekuatan pendukung",
+        "kekuatan cadangan",
+        "kekuatan pengganti"
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 30 ayat (2) UUD 1945 menempatkan TNI dan Polri sebagai kekuatan utama, sedangkan rakyat sebagai kekuatan pendukung dalam sistem pertahanan dan keamanan rakyat semesta (sishankamrata).",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Lembaga negara yang berwenang mengubah dan menetapkan Undang-Undang Dasar adalah …",
+      "pilihan": [
+        "Mahkamah Konstitusi",
+        "Presiden",
+        "Majelis Permusyawaratan Rakyat",
+        "Dewan Perwakilan Rakyat"
+      ],
+      "kunci": 2,
+      "bahasan": "Pasal 3 ayat (1) UUD 1945 menegaskan MPR berwenang mengubah dan menetapkan Undang-Undang Dasar, dengan tata cara yang diatur lebih lanjut dalam Pasal 37.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "UUD 1945 menegaskan bahwa bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan. Ketentuan tersebut tercantum dalam …",
+      "pilihan": [
+        "Pasal 18 ayat (1)",
+        "Pasal 37 ayat (5)",
+        "Pasal 37 ayat (1)",
+        "Pasal 1 ayat (1)"
+      ],
+      "kunci": 1,
+      "bahasan": "Pasal 37 ayat (5) UUD 1945 berbunyi: \"Khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.\" Pasal 1 ayat (1) hanya menyatakan bentuk negara, tanpa larangan perubahan.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Semboyan \"Bhinneka Tunggal Ika\" berasal dari Kitab Sutasoma karangan …",
+      "pilihan": [
+        "Mpu Prapanca",
+        "Mpu Sedah",
+        "Mpu Kanwa",
+        "Mpu Tantular"
+      ],
+      "kunci": 3,
+      "bahasan": "Bhinneka Tunggal Ika dikutip dari Kitab Sutasoma karya Mpu Tantular pada masa Majapahit. Mpu Prapanca mengarang Negarakertagama, sedangkan Mpu Kanwa mengarang Arjunawiwaha.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Pada lambang negara Garuda Pancasila, semboyan Bhinneka Tunggal Ika tertulis pada …",
+      "pilihan": [
+        "perisai di dada Garuda",
+        "pita yang dicengkeram kedua kaki Garuda",
+        "mahkota di atas kepala Garuda",
+        "sayap Garuda yang membentang"
+      ],
+      "kunci": 1,
+      "bahasan": "Semboyan Bhinneka Tunggal Ika tertulis pada pita putih yang dicengkeram kedua kaki Garuda Pancasila. Perisai di dada Garuda memuat lambang kelima sila Pancasila.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Wawasan Nusantara pada hakikatnya adalah …",
+      "pilihan": [
+        "pandangan bahwa wilayah Indonesia hanya mencakup pulau-pulau besar",
+        "doktrin pertahanan laut untuk menghadapi ancaman dari luar negeri",
+        "cara pandang bangsa Indonesia mengenai diri dan lingkungannya berdasarkan Pancasila dan UUD 1945, dengan mengutamakan persatuan dan kesatuan wilayah",
+        "kebijakan pemerintah tentang pengelolaan sumber daya kelautan"
+      ],
+      "kunci": 2,
+      "bahasan": "Wawasan Nusantara adalah cara pandang dan sikap bangsa Indonesia mengenai diri dan lingkungannya yang serba beragam, dengan mengutamakan persatuan dan kesatuan bangsa serta kesatuan wilayah dalam kehidupan bermasyarakat, berbangsa, dan bernegara.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Deklarasi Djuanda pada 13 Desember 1957 menegaskan bahwa Indonesia adalah …",
+      "pilihan": [
+        "negara kepulauan dengan lebar laut teritorial 12 mil laut yang diukur dari garis pangkal kepulauan",
+        "negara maritim dengan lebar laut teritorial 3 mil laut",
+        "negara agraris dengan wilayah hanya mencakup daratan pulau",
+        "negara federasi yang terdiri atas kepulauan-kepulauan otonom"
+      ],
+      "kunci": 0,
+      "bahasan": "Deklarasi Djuanda (1957) menyatakan perairan di sekitar, di antara, dan yang menghubungkan pulau-pulau Indonesia adalah bagian integral wilayah NKRI, dengan lebar laut teritorial 12 mil laut — cikal bakal prinsip negara kepulauan yang kemudian diakui dalam UNCLOS 1982.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Pasal 29 ayat (2) UUD 1945 menjamin kemerdekaan tiap-tiap penduduk untuk …",
+      "pilihan": [
+        "menyampaikan pendapat di muka umum",
+        "memperoleh pekerjaan dan penghidupan yang layak",
+        "berserikat dan berkumpul",
+        "memeluk agamanya masing-masing dan beribadat menurut agama dan kepercayaannya"
+      ],
+      "kunci": 3,
+      "bahasan": "Pasal 29 ayat (2) UUD 1945: \"Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu.\" Berserikat diatur Pasal 28, dan pekerjaan yang layak Pasal 27 ayat (2).",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Sebuah tas berharga Rp480.000. Toko memberikan diskon 20%. Berapa rupiah yang harus dibayar pembeli?",
+      "pilihan": [
+        "Rp408.000",
+        "Rp384.000",
+        "Rp96.000",
+        "Rp336.000"
+      ],
+      "kunci": 1,
+      "bahasan": "Potongan harga = 20% × Rp480.000 = Rp96.000. Yang dibayar = Rp480.000 − Rp96.000 = Rp384.000.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Huruf berikutnya dari deret C, E, G, I, K, … adalah …",
+      "pilihan": [
+        "L",
+        "O",
+        "M",
+        "N"
+      ],
+      "kunci": 2,
+      "bahasan": "Setiap huruf maju 2 langkah dalam alfabet: C → E → G → I → K → M.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Suku berikutnya dari deret 5, 8, 11, 14, 17, … adalah …",
+      "pilihan": [
+        "20",
+        "23",
+        "17",
+        "26"
+      ],
+      "kunci": 0,
+      "bahasan": "Deret ini berpola tambah 3 setiap suku: 5, 8, 11, 14, 17, lalu 17 + 3 = 20.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Tabungan sebesar Rp9.000.000 disimpan di bank dengan bunga tunggal 8% per tahun. Besar bunga setelah 1 tahun adalah …",
+      "pilihan": [
+        "Rp9.720.000",
+        "Rp720.000",
+        "Rp1.440.000",
+        "Rp900.000"
+      ],
+      "kunci": 1,
+      "bahasan": "Bunga tunggal = modal × suku bunga × waktu = Rp9.000.000 × 8% × 1 = Rp720.000.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Berapakah 10% dari 200?",
+      "pilihan": [
+        "20",
+        "10",
+        "200",
+        "40"
+      ],
+      "kunci": 0,
+      "bahasan": "10% dari 200 = 10/100 × 200 = 20.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Suku berikutnya dari deret 3, 9, 27, 81, … adalah …",
+      "pilihan": [
+        "729",
+        "486",
+        "324",
+        "243"
+      ],
+      "kunci": 3,
+      "bahasan": "Deret ini berpola kali 3 setiap suku: 3, 9, 27, 81, lalu 81 × 3 = 243.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Harga 3 buku dan 2 pensil adalah Rp35.000, sedangkan harga 1 buku dan 4 pensil adalah Rp25.000. Harga 2 buku dan 3 pensil adalah …",
+      "pilihan": [
+        "Rp39.000",
+        "Rp26.000",
+        "Rp30.000",
+        "Rp35.000"
+      ],
+      "kunci": 2,
+      "bahasan": "Misalkan harga buku x dan pensil y. Dari kedua persamaan diperoleh x = Rp9.000 dan y = Rp4.000 (eliminasi: kalikan persamaan kedua dengan 3 lalu kurangkan). Maka 2x + 3y = Rp18.000 + Rp12.000 = Rp30.000.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Seorang pedagang membeli barang seharga Rp550.000 dan menjualnya kembali seharga Rp715.000. Persentase keuntungan pedagang tersebut adalah …",
+      "pilihan": [
+        "25%",
+        "35%",
+        "30%",
+        "60%"
+      ],
+      "kunci": 2,
+      "bahasan": "Untung = Rp715.000 − Rp550.000 = Rp165.000. Persentase untung = 165.000 ÷ 550.000 × 100% = 30%.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Nilai lima kali latihan seorang calon siswa adalah 71, 85, 75, 81, 68. Nilai rata-rata calon siswa tersebut adalah …",
+      "pilihan": [
+        "78",
+        "76",
+        "81",
+        "74"
+      ],
+      "kunci": 1,
+      "bahasan": "Jumlah nilai = 71 + 85 + 75 + 81 + 68 = 380. Rata-rata = 380 ÷ 5 = 76.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Perbandingan jumlah calon siswa laki-laki dan perempuan dalam satu kelas latihan adalah 2 : 3. Jika jumlah seluruh calon siswa 80 orang, berapa jumlah calon siswa perempuan?",
+      "pilihan": [
+        "49",
+        "64",
+        "32",
+        "48"
+      ],
+      "kunci": 3,
+      "bahasan": "Jumlah perbandingan = 2 + 3 = 5. Nilai satu bagian = 80 ÷ 5 = 16. Calon siswa perempuan = 3 × 16 = 48 orang.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Sebuah kendaraan melaju dengan kecepatan tetap 60 km/jam. Waktu yang dibutuhkan untuk menempuh jarak 120 km adalah …",
+      "pilihan": [
+        "2 jam",
+        "3 jam",
+        "1 jam",
+        "4 jam"
+      ],
+      "kunci": 0,
+      "bahasan": "Waktu = jarak ÷ kecepatan = 120 ÷ 60 = 2 jam.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Sebuah tas berharga Rp400.000. Toko memberikan diskon 20%. Berapa rupiah yang harus dibayar pembeli?",
+      "pilihan": [
+        "Rp80.000",
+        "Rp280.000",
+        "Rp340.000",
+        "Rp320.000"
+      ],
+      "kunci": 3,
+      "bahasan": "Potongan harga = 20% × Rp400.000 = Rp80.000. Yang dibayar = Rp400.000 − Rp80.000 = Rp320.000.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Huruf berikutnya dari deret A, E, I, M, Q, … adalah …",
+      "pilihan": [
+        "T",
+        "U",
+        "V",
+        "Y"
+      ],
+      "kunci": 1,
+      "bahasan": "Setiap huruf maju 4 langkah dalam alfabet: A → E → I → M → Q → U.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "The police officer ___ a written report after every patrol.",
+      "pilihan": [
+        "writing",
+        "written",
+        "writes",
+        "write"
+      ],
+      "kunci": 2,
+      "bahasan": "Subjek \"the police officer\" adalah tunggal dan kalimatnya menyatakan kebiasaan (setiap patroli), sehingga digunakan simple present dengan akhiran -s: writes.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "The officers ___ already secured the area before the ambulance arrived.",
+      "pilihan": [
+        "had",
+        "are",
+        "has",
+        "have"
+      ],
+      "kunci": 0,
+      "bahasan": "Ada dua peristiwa lampau: area diamankan lebih dulu, ambulans datang kemudian. Peristiwa yang terjadi lebih awal memakai past perfect \"had + verb-3\" (had secured).",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "The stolen motorcycle ___ by the police last night.",
+      "pilihan": [
+        "finds",
+        "was found",
+        "finding",
+        "is find"
+      ],
+      "kunci": 1,
+      "bahasan": "Kalimat ini pasif dan terjadi tadi malam (last night): was/were + verb-3. Subjek \"motorcycle\" tunggal sehingga memakai \"was found\".",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "He was born ___ 12 May 2004.",
+      "pilihan": [
+        "on",
+        "of",
+        "in",
+        "at"
+      ],
+      "kunci": 0,
+      "bahasan": "Preposisi untuk tanggal lengkap (hari + bulan + tahun) adalah \"on\": on 12 May 2004. \"In\" dipakai untuk bulan/tahun saja, \"at\" untuk jam.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "This route is ___ than the main road during rush hour.",
+      "pilihan": [
+        "most fast",
+        "more fast",
+        "fastest",
+        "faster"
+      ],
+      "kunci": 3,
+      "bahasan": "Kata sifat satu suku kata membentuk comparative dengan akhiran -er: fast → faster. \"Fastest\" adalah superlative (paling), dipakai tanpa pola \"than\" untuk dua pembanding seperti ini.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "You ___ wear a helmet when riding a motorcycle. It is required by law.",
+      "pilihan": [
+        "would",
+        "might",
+        "must",
+        "may not"
+      ],
+      "kunci": 2,
+      "bahasan": "Kewajiban yang diatur undang-undang dinyatakan dengan modal \"must\". \"Might\" menyatakan kemungkinan, bukan kewajiban.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "The word \"apprehend\" is closest in meaning to …",
+      "pilihan": [
+        "release",
+        "arrest",
+        "protect",
+        "interrogate"
+      ],
+      "kunci": 1,
+      "bahasan": "\"Apprehend\" berarti menangkap (to arrest/catch someone suspected of a crime). \"Interrogate\" berarti menginterogasi — tindakan yang berbeda, bukan sinonim.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "The antonym of \"guilty\" is …",
+      "pilihan": [
+        "brave",
+        "honest",
+        "responsible",
+        "innocent"
+      ],
+      "kunci": 3,
+      "bahasan": "\"Guilty\" berarti bersalah; lawan katanya \"innocent\" (tidak bersalah). Honest (jujur), brave (berani), dan responsible (bertanggung jawab) bukan antonimnya.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "Read the text.\n\"The traffic police unit in Semarang has introduced an online system for paying traffic fines. Drivers who receive an electronic ticket can check the fine amount on the official website and pay through a bank or mobile banking. The system aims to reduce queues at police offices and make the process more transparent. However, officers still patrol the roads to help drivers who have difficulty using the system.\"\n\nWhat is the main purpose of the online system?",
+      "pilihan": [
+        "To replace banks and mobile banking",
+        "To increase the amount of traffic fines",
+        "To make paying traffic fines easier and more transparent",
+        "To stop officers from patrolling the roads"
+      ],
+      "kunci": 2,
+      "bahasan": "Teks menyatakan sistem ini bertujuan mengurangi antrean dan membuat proses lebih transparan, serta pembayaran dapat dilakukan lewat situs resmi — jadi tujuannya memudahkan pembayaran denda secara transparan. Petugas justru tetap berpatroli.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "According to the text above, how can drivers pay an electronic traffic fine?",
+      "pilihan": [
+        "Through a bank or mobile banking",
+        "Through a shopping application",
+        "By giving the money to a patrolling officer",
+        "Only in cash at the police office"
+      ],
+      "kunci": 0,
+      "bahasan": "Kalimat kedua teks menyebutkan pengemudi dapat membayar \"through a bank or mobile banking\" setelah memeriksa jumlah denda di situs resmi.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "In the text above, the word \"transparent\" is closest in meaning to …",
+      "pilihan": [
+        "strict and secret",
+        "modern and automatic",
+        "clear and open",
+        "fast and cheap"
+      ],
+      "kunci": 2,
+      "bahasan": "\"Transparent\" dalam konteks pelayanan publik berarti jelas dan terbuka (clear and open), sehingga setiap orang dapat mengetahui proses dan biayanya.",
+      "topik": "Bahasa Inggris"
+    },
+    {
+      "tanya": "If it rains tonight, the ceremony ___ indoors.",
+      "pilihan": [
+        "will be held",
+        "would held",
+        "held yesterday",
+        "holding"
+      ],
+      "kunci": 0,
+      "bahasan": "Conditional type 1: If + simple present (rains), will + verb-1. Karena \"ceremony\" adalah objek yang diadakan, digunakan bentuk pasif \"will be held\".",
+      "topik": "Bahasa Inggris"
+    }
+  ]
+}

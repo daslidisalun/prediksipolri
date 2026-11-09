@@ -1,0 +1,132 @@
+---
+import Base from '../layouts/Base.astro';
+import { withBase } from '../config/site';
+---
+
+<Base title="Kisi-Kisi Tes Akademik Polri: Mata Uji per Jalur" description="Matriks mata uji tes akademik Polri per jalur — Akpol tingkat daerah vs pusat, Bintara, Tamtama, dan Bakomsus — berdasarkan pengumuman resmi penerimaan Polri, plus penjelasan sistem CAT dan tahapan seleksi." path="/kisi-kisi/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>kisi-kisi</span></nav>
+  <h1>Kisi-Kisi Tes Akademik Polri: Mata Uji per Jalur</h1>
+  <p class="lead">
+    Halaman ini merangkum <strong>daftar mata uji</strong> tes akademik Polri sebagaimana tercantum dalam pengumuman resmi
+    penerimaan Polri — bukan daftar soal. Panitia tidak pernah menerbitkan kisi-kisi terperinci per topik, apalagi soal
+    tahun-tahun sebelumnya; yang dipublikasikan hanya nama mata ujinya. Dari daftar resmi itulah paket-paket latihan
+    di situs ini disusun.
+  </p>
+
+  <h2>Matriks mata uji per jalur</h2>
+  <div class="tabel-wrap">
+    <table class="kisi">
+      <thead>
+        <tr><th>Jalur</th><th>Tingkat daerah (Panda)</th><th>Tingkat pusat (Panpus) / tambahan</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Taruna Akpol</strong></td>
+          <td>Pengetahuan Umum (termasuk UU Kepolisian) · Wawasan Kebangsaan · Penalaran Numerik · Bahasa Indonesia</td>
+          <td>Ditambah Tes Potensi Akademik (TPA) dan Bahasa Inggris</td>
+        </tr>
+        <tr>
+          <td><strong>Bintara (PTU, Brimob, Polair)</strong></td>
+          <td>Pengetahuan Umum (termasuk UU Kepolisian) · Wawasan Kebangsaan · Penalaran Numerik · Bahasa Inggris</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td><strong>Bintara Kompetensi Khusus (Bakomsus)</strong></td>
+          <td>Mengikuti daftar mata uji Bintara sesuai pengumuman tahun berjalan</td>
+          <td>Ditambah Tes Kompetensi Keahlian (TKK): aspek pengetahuan, keterampilan, dan perilaku sesuai bidang kompetensi (mis. kesehatan, TI, hukum, tata boga)</td>
+        </tr>
+        <tr>
+          <td><strong>Tamtama (Brimob, Polair)</strong></td>
+          <td>Pengetahuan Umum (termasuk UU Kepolisian) · Wawasan Kebangsaan · Penalaran Numerik · Bahasa Indonesia</td>
+          <td>—</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="lead">
+    Perbedaan yang paling sering terlewat: Akpol tingkat daerah <em>tidak</em> mengujikan Bahasa Inggris — mata uji itu baru
+    muncul di tingkat pusat bersama TPA. Sebaliknya Bintara mengujikan Bahasa Inggris sejak tingkat daerah tetapi tidak
+    mengujikan Bahasa Indonesia sebagai mata uji tersendiri. Paket contoh kami mengikuti persis pembagian ini:
+    <a href={withBase('/paket/akpol-daerah/')}>paket Akpol (daerah)</a> tanpa Bahasa Inggris, dan
+    <a href={withBase('/paket/bintara-akademik/')}>paket Bintara</a> dengan Bahasa Inggris.
+  </p>
+
+  <h2>Isi masing-masing mata uji</h2>
+  <div class="prose">
+    <h3>Pengetahuan Umum (termasuk UU Kepolisian)</h3>
+    <p>
+      Wawasan umum: geografi dan sejarah Indonesia, lembaga negara, peristiwa penting, serta dasar-dasar kepolisian dari
+      UU No. 2 Tahun 2002 — peran, fungsi, dan tugas pokok Polri (Pasal 2, 5, dan 13), syarat menjadi anggota (Pasal 21),
+      hingga struktur kewilayahan Mabes–Polda–Polres–Polsek. Inilah satu-satunya mata uji yang materinya khas Polri;
+      jalur lain (mis. tes TNI) tidak mengujikan UU Kepolisian.
+    </p>
+    <h3>Wawasan Kebangsaan</h3>
+    <p>
+      Pancasila, Pembukaan dan batang tubuh UUD 1945 (terutama pasal-pasal tentang negara, warga negara, dan HAM),
+      NKRI, Bhinneka Tunggal Ika, Wawasan Nusantara, dan kewarganegaraan. Materinya sepenuhnya fakta publik: teks
+      konstitusi dan sejarah perjuangan bangsa.
+    </p>
+    <h3>Penalaran Numerik</h3>
+    <p>
+      Matematika dasar setara SMP–SMA: aritmetika sosial (untung-rugi, diskon, bunga tunggal), persen, perbandingan,
+      barisan dan deret (angka dan huruf), kecepatan–jarak–waktu, persamaan linear dua variabel sederhana, dan rata-rata.
+      Jenis soal ini paling mudah dilatih karena polanya terbatas — soal numerik di situs ini dibuat dengan generator
+      dan kuncinya terhitung program.
+    </p>
+    <h3>Bahasa Indonesia</h3>
+    <p>
+      Ejaan dan tanda baca menurut PUEBI, kata baku menurut KBBI, kalimat efektif, imbuhan, konjungsi, serta pemahaman
+      bacaan (ide pokok dan informasi rinci). Diujikan pada Akpol dan Tamtama tingkat daerah.
+    </p>
+    <h3>Bahasa Inggris</h3>
+    <p>
+      Tata bahasa dasar (tenses, kalimat pasif, preposisi, comparative, modal, conditional), kosakata umum dan konteks
+      kepolisian, serta pemahaman bacaan pendek. Diujikan pada Bintara dan pada Akpol tingkat pusat.
+    </p>
+    <h3>Tes Potensi Akademik (khusus Akpol tingkat pusat)</h3>
+    <p>
+      Penalaran verbal (sinonim, antonim, analogi), numerik, dan logis. Paket TPA belum termasuk dalam contoh demo ini.
+    </p>
+  </div>
+
+  <h2>Bagaimana tes akademik dilaksanakan: sistem CAT</h2>
+  <div class="prose">
+    <p>
+      Tes akademik Polri dikerjakan dengan <strong>Computer Assisted Test (CAT)</strong>: peserta mengerjakan soal di
+      komputer, paket soal diacak dari bank soal panitia, dan nilai kuantitatifnya diketahui dari sistem. Konsekuensi
+      praktisnya untuk persiapan: (1) latih kecepatan — jumlah soal banyak dengan waktu terbatas; (2) latih mengerjakan
+      di layar, bukan hanya di kertas; (3) jangan mengandalkan hafalan "soal yang keluar tahun lalu", karena paket
+      setiap peserta berbeda. Mode latihan di situs ini meniru ritme itu: klik jawaban, hasil dan pembahasan langsung
+      muncul, skor berjalan terlihat.
+    </p>
+  </div>
+
+  <h2>Tahapan seleksi (gambaran umum)</h2>
+  <div class="prose">
+    <p>Di luar tes akademik, seleksi penerimaan Polri umumnya melewati tahapan berikut (urutan dan rincian mengikuti pengumuman tahun berjalan):</p>
+    <ol class="steps">
+      <li><strong>Pendaftaran dan verifikasi</strong> — pendaftaran online di penerimaan.polri.go.id, lalu verifikasi berkas di Polres/Polda setempat.</li>
+      <li><strong>Pemeriksaan administrasi awal</strong> — keabsahan ijazah, usia, domisili, dan dokumen syarat lainnya.</li>
+      <li><strong>Pemeriksaan kesehatan</strong> — kesehatan umum, gigi, mata, dan pemeriksaan penunjang.</li>
+      <li><strong>Tes psikologi (CAT Psikologi)</strong> — kecerdasan, kepribadian, dan sikap kerja; dilanjutkan wawancara psikologi pada tahap berikutnya.</li>
+      <li><strong>Tes akademik (CAT)</strong> — mata uji sesuai matriks di atas, dengan penilaian kuantitatif.</li>
+      <li><strong>Tes kesamaptaan jasmani</strong> — lari 12 menit, pull-up/chinning, sit-up, push-up, shuttle run, dan renang (sesuai jalur).</li>
+      <li><strong>Penelusuran mental kepribadian (PMK) dan wawancara</strong> — termasuk pemeriksaan latar belakang dan mental ideologi.</li>
+      <li><strong>Pemeriksaan kesehatan lanjutan, sidang akhir, dan penetapan kelulusan</strong> di tingkat daerah dan/atau pusat sesuai jalur.</li>
+    </ol>
+    <p>
+      Seluruh tahapan memakai sistem gugur dan hasilnya diumumkan terbuka. Polri menegaskan penerimaan anggota
+      <strong>tidak dipungut biaya</strong> — waspadai siapa pun yang meminta uang dengan janji meluluskan.
+    </p>
+  </div>
+
+  <h2>Sumber dan batas kejujuran halaman ini</h2>
+  <div class="note-box">
+    <p><strong>Sumber:</strong> portal resmi Penerimaan Polri (penerimaan.polri.go.id) — pengumuman penerimaan Taruna Akpol, Bintara, dan Tamtama tahun anggaran berjalan; UU No. 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia; teks UUD 1945.</p>
+    <p><strong>Batasnya:</strong> pengumuman resmi hanya mencantumkan <em>nama mata uji</em>, bukan rincian topik per mata uji. Rincian isi pada halaman ini adalah pemetaan materi sekolah dan perundang-undangan yang lazim diujikan pada mata uji tersebut — bahan untuk belajar, bukan bocoran isi bank soal panitia. Jika pengumuman tahun berikutnya mengubah daftar mata uji, matriks di halaman ini yang harus menyesuaikan, bukan sebaliknya.</p>
+  </div>
+
+  <p style="margin-top:26px">
+    <a class="btn gold" href={withBase('/paket/')}>Lihat paket latihannya</a>
+  </p>
+</Base>

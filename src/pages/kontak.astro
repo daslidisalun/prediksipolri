@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase } from '../config/site';
+---
+
+<Base title="Kontak" description="Hubungi tim PrediksiPolri melalui email untuk koreksi soal, masukan materi, atau pertanyaan seputar situs latihan ini." path="/kontak/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>kontak</span></nav>
+  <h1>Kontak</h1>
+  <div class="prose">
+    <p>
+      Cara tercepat menghubungi tim {SITE_NAME} adalah melalui email:
+    </p>
+    <p><strong>prediksipolri@gmail.com</strong></p>
+    <p>Kami membaca terutama tiga jenis pesan:</p>
+    <ul>
+      <li><strong>Koreksi soal</strong> — jika kamu menemukan kunci yang keliru atau pembahasan yang membingungkan, sebutkan judul paket dan nomor soalnya. Koreksi yang terbukti benar akan kami perbaiki.</li>
+      <li><strong>Masukan materi</strong> — usul mata uji atau topik yang belum terwakili dalam paket latihan.</li>
+      <li><strong>Pertanyaan seputar situs</strong> — cara menggunakan mode latihan dan fitur cetak paket.</li>
+    </ul>
+    <p>
+      Perlu ditegaskan: kami <strong>tidak</strong> dapat membantu pendaftaran, kelulusan, atau urusan seleksi apa pun —
+      itu sepenuhnya wewenang panitia penerimaan Polri. Untuk pendaftaran dan informasi resmi, kunjungi
+      penerimaan.polri.go.id. {SITE_NAME} tidak berafiliasi dengan Polri.
+    </p>
+  </div>
+</Base>

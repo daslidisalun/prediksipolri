@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase } from '../config/site';
+---
+
+<Base title="Disclaimer" description="Disclaimer PrediksiPolri: soal latihan orisinal, bukan bocoran, bukan soal resmi seleksi Polri, tidak berafiliasi dengan Polri, dan tidak ada jaminan kelulusan." path="/disclaimer/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>disclaimer</span></nav>
+  <h1>Disclaimer</h1>
+  <div class="prose">
+    <h2>Latihan orisinal — bukan bocoran, bukan soal resmi</h2>
+    <p>
+      Seluruh soal di {SITE_NAME} adalah <strong>soal latihan orisinal</strong> yang ditulis untuk situs ini
+      berdasarkan daftar mata uji dalam pengumuman resmi penerimaan Polri. Soal-soal ini <strong>bukan</strong>
+      soal yang digunakan dalam seleksi penerimaan Polri, bukan bocoran, dan bukan pula saduran dari bank soal
+      panitia. Panitia penerimaan Polri tidak pernah menerbitkan soal seleksi tahun-tahun sebelumnya; bank soal
+      CAT bersifat rahasia.
+    </p>
+    <h2>Tidak berafiliasi</h2>
+    <p>
+      {SITE_NAME} adalah situs latihan mandiri yang dikelola secara independen. Situs ini <strong>tidak
+      berafiliasi</strong>, tidak didukung, dan tidak disahkan oleh Kepolisian Negara Republik Indonesia, Akademi
+      Kepolisian, atau instansi pemerintah mana pun. Nama "Polri" pada nama situs dipakai semata untuk menjelaskan
+      subjek latihan (seleksi penerimaan Polri), bukan untuk menyatakan afiliasi resmi. Informasi resmi mengenai
+      penerimaan anggota Polri hanya terdapat di <strong>penerimaan.polri.go.id</strong>.
+    </p>
+    <h2>Tidak ada jaminan kelulusan</h2>
+    <p>
+      Mengerjakan latihan di situs ini dapat membantu mengukur kesiapan dan mengenali pola soal, tetapi
+      <strong>tidak menjamin</strong> kelulusan dalam seleksi yang sesungguhnya. Komposisi mata uji, jadwal, dan
+      ketentuan seleksi dapat berubah setiap tahun anggaran mengikuti pengumuman resmi — selalu jadikan pengumuman
+      terbaru sebagai acuan utama.
+    </p>
+    <h2>Ketepatan materi</h2>
+    <p>
+      Fakta yang diuji dalam soal (teks perundang-undangan, sejarah, geografi, dan materi pelajaran) dirujuk dari
+      sumber publik dan diperiksa sebelum diterbitkan. Apabila kamu menemukan kekeliruan kunci atau pembahasan,
+      sampaikan melalui halaman <a href={withBase('/kontak/')}>kontak</a> agar dapat kami perbaiki.
+    </p>
+    <h2>Waspada penipuan</h2>
+    <p>
+      Penerimaan anggota Polri <strong>tidak dipungut biaya</strong>. Apabila ada pihak yang mengatasnamakan
+      panitia, oknum, atau situs ini dan meminta sejumlah uang dengan janji meluluskan seleksi, itu adalah
+      penipuan — abaikan dan laporkan ke kepolisian terdekat.
+    </p>
+  </div>
+</Base>

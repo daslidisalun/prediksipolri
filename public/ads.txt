@@ -1,0 +1,1 @@
+# ads.txt — placeholder. Baris AdSense resmi diisi pemilik situs setelah situs terindeks.

@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase } from '../config/site';
+---
+
+<Base title="Kebijakan Privasi" description="Kebijakan privasi PrediksiPolri: latihan berjalan sepenuhnya di browser, tidak ada akun, tidak ada data jawaban yang dikirim atau disimpan di server." path="/privasi/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>privasi</span></nav>
+  <h1>Kebijakan Privasi</h1>
+  <div class="prose">
+    <p>Terakhir diperbarui: November 2026.</p>
+    <h2>Data yang kami kumpulkan</h2>
+    <p>
+      {SITE_NAME} tidak menyediakan akun pengguna dan tidak meminta nama, alamat email, nomor telepon, atau data
+      pribadi apa pun untuk mengerjakan latihan. Seluruh pengerjaan soal — jawaban yang kamu klik, skor berjalan,
+      dan status selesai — diproses <strong>sepenuhnya di browser pada perangkatmu</strong> dan hilang ketika tab
+      ditutup. Tidak ada jawaban atau skor yang dikirim ke server kami.
+    </p>
+    <h2>Cookies dan analitik</h2>
+    <p>
+      Situs statis ini tidak memasang cookies pelacak milik sendiri. Jika kelak kami memakai layanan analitik atau
+      iklan pihak ketiga (misalnya Google AdSense), penyedia tersebut dapat menggunakan cookies sesuai kebijakan
+      mereka; halaman ini akan diperbarui sebelum hal itu diberlakukan.
+    </p>
+    <h2>Email yang kamu kirim</h2>
+    <p>
+      Jika kamu menghubungi kami melalui email, alamat dan isi pesanmu hanya digunakan untuk membalas keperluan
+      tersebut dan tidak dibagikan kepada pihak lain.
+    </p>
+    <h2>Tautan keluar</h2>
+    <p>
+      Situs ini memuat tautan ke situs resmi penerimaan.polri.go.id. Kami tidak bertanggung jawab atas isi dan
+      kebijakan privasi situs eksternal tersebut.
+    </p>
+    <h2>Perubahan</h2>
+    <p>
+      Perubahan kebijakan ini akan diumumkan pada halaman ini dengan tanggal pembaruan yang baru. Pertanyaan
+      seputar privasi dapat dikirim ke alamat pada halaman <a href={withBase('/kontak/')}>kontak</a>.
+    </p>
+  </div>
+</Base>

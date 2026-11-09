@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, withBase } from '../config/site';
+---
+
+<Base title="Tentang PrediksiPolri" description="PrediksiPolri adalah situs latihan mandiri soal tes akademik Polri: soal latihan orisinal dari daftar mata uji resmi, bukan bocoran, tidak berafiliasi dengan Polri." path="/tentang/">
+  <nav class="breadcrumb"><a href={withBase('/')}>beranda</a> / <span>tentang</span></nav>
+  <h1>Tentang {SITE_NAME}</h1>
+  <div class="prose">
+    <p>
+      {SITE_NAME} adalah situs latihan mandiri untuk calon peserta seleksi penerimaan Kepolisian Negara Republik
+      Indonesia — jalur Taruna Akpol, Bintara, dan Tamtama. Isinya adalah <strong>soal-soal latihan orisinal</strong>
+      yang disusun dari daftar mata uji dalam pengumuman resmi penerimaan Polri, lengkap dengan kunci jawaban dan
+      pembahasan untuk setiap soal.
+    </p>
+    <h2>Bagaimana soal di situs ini dibuat</h2>
+    <ul>
+      <li><strong>Kerangkanya resmi:</strong> komposisi mata uji setiap paket mengikuti pengumuman penerimaan Polri di penerimaan.polri.go.id.</li>
+      <li><strong>Faktanya publik:</strong> materi yang diuji adalah teks UUD 1945, Pancasila, UU No. 2 Tahun 2002 tentang Kepolisian, kaidah PUEBI/KBBI, dan materi matematika serta bahasa Inggris setara sekolah menengah.</li>
+      <li><strong>Redaksinya orisinal:</strong> seluruh soal ditulis sendiri untuk situs ini. Kami tidak menyalin bank soal bimbingan belajar, buku persiapan, atau situs latihan lain.</li>
+      <li><strong>Kuncinya diperiksa:</strong> soal hitungan (Penalaran Numerik) dihasilkan generator komputer dengan kunci yang terhitung program, dan seluruh bank soal melewati pemeriksaan otomatis sebelum diterbitkan.</li>
+    </ul>
+    <h2>Apa yang bukan kami</h2>
+    <ul>
+      <li>Kami <strong>bukan</strong> bagian dari Polri, panitia penerimaan, atau lembaga pemerintah mana pun.</li>
+      <li>Kami <strong>tidak</strong> memiliki, menjual, atau membocorkan soal asli seleksi — soal CAT panitia bersifat rahasia dan tidak pernah diterbitkan.</li>
+      <li>Kami <strong>tidak</strong> dapat menjamin kelulusan. Nilai latihanmu adalah cermin kesiapan, bukan ramalan hasil seleksi.</li>
+      <li>Kami <strong>tidak</strong> memungut biaya apa pun atas nama seleksi. Pendaftaran resmi Polri gratis dan hanya melalui penerimaan.polri.go.id.</li>
+    </ul>
+    <p>
+      Kata "prediksi" pada nama situs ini memakai arti yang jujur ala bimbingan belajar: memprediksi <em>pola dan materi</em>
+      yang akan diuji berdasarkan daftar mata uji resmi — bukan mengklaim mengetahui soal aslinya. Baca juga
+      <a href={withBase('/disclaimer/')}> disclaimer</a> dan <a href={withBase('/kisi-kisi/')}>kisi-kisi per jalur</a>.
+    </p>
+  </div>
+</Base>

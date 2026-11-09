@@ -1,0 +1,489 @@
+{
+  "slug": "akpol-daerah",
+  "jalur": "akpol",
+  "judul": "Prediksi Soal Tes Akademik Akpol (Tingkat Daerah)",
+  "durasiMenit": 60,
+  "intro": "Prediksi soal tes akademik Taruna Akpol tingkat daerah (Panda) berdasarkan daftar mata uji dalam pengumuman resmi penerimaan Polri: 40 soal latihan orisinal — Pengetahuan Umum 10 soal, Wawasan Kebangsaan 10 soal, Bahasa Indonesia 10 soal, dan Penalaran Numerik 10 soal. Di tingkat pusat, seleksi Akpol menambah Tes Potensi Akademik (TPA) dan Bahasa Inggris. Setiap soal dilengkapi kunci jawaban dan pembahasan; soal numerik dihasilkan generator dengan kunci yang terhitung program. Paket ini adalah latihan mandiri, bukan bocoran dan bukan soal resmi seleksi.",
+  "soal": [
+    {
+      "tanya": "Menurut Pasal 2 UU No. 2 Tahun 2002, fungsi kepolisian adalah salah satu fungsi pemerintahan negara di bidang …",
+      "pilihan": [
+        "pertahanan negara, penegakan hukum, dan perlindungan masyarakat",
+        "pemeliharaan keamanan dan ketertiban masyarakat, penegakan hukum, perlindungan, pengayoman, dan pelayanan kepada masyarakat",
+        "administrasi kependudukan, perizinan usaha, dan pemungutan retribusi",
+        "peradilan, penuntutan, dan eksekusi putusan pengadilan"
+      ],
+      "kunci": 1,
+      "bahasan": "Pasal 2 UU No. 2 Tahun 2002 merumuskan fungsi kepolisian persis dengan lima bidang tersebut. Fungsi pertahanan negara adalah ranah TNI, sedangkan peradilan dan penuntutan adalah ranah kekuasaan kehakiman dan kejaksaan.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Salah satu syarat umum untuk menjadi anggota Polri menurut Pasal 21 ayat (1) UU No. 2 Tahun 2002 adalah …",
+      "pilihan": [
+        "berusia sekurang-kurangnya 25 tahun pada saat diangkat",
+        "pernah bertugas sebagai prajurit TNI sekurang-kurangnya dua tahun",
+        "tidak pernah dipidana karena melakukan suatu kejahatan, yang dibuktikan dengan surat keterangan catatan kepolisian",
+        "berijazah sarjana untuk semua jalur penerimaan"
+      ],
+      "kunci": 2,
+      "bahasan": "Pasal 21 ayat (1) UU No. 2 Tahun 2002 memuat syarat umum, antara lain WNI, beriman dan bertakwa, setia kepada NKRI, sehat jasmani-rohani, tidak pernah dipidana (dibuktikan SKCK), serta berwibawa, jujur, adil, dan berkelakuan tidak tercela.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Kapolri diangkat dan diberhentikan oleh Presiden dengan persetujuan …",
+      "pilihan": [
+        "Dewan Perwakilan Rakyat",
+        "Mahkamah Konstitusi",
+        "Dewan Pertimbangan Agung",
+        "Majelis Permusyawaratan Rakyat"
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 11 UU No. 2 Tahun 2002: Kapolri diangkat dan diberhentikan oleh Presiden dengan persetujuan Dewan Perwakilan Rakyat (DPR).",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Pelaksana tugas dan wewenang Polri di wilayah kabupaten/kota adalah …",
+      "pilihan": [
+        "Kepolisian Sektor (Polsek)",
+        "Markas Besar Polri",
+        "Kepolisian Daerah (Polda)",
+        "Kepolisian Resor (Polres)"
+      ],
+      "kunci": 3,
+      "bahasan": "Pembagian kewilayahan Polri: Mabes Polri (nasional), Polda (provinsi), Polres (kabupaten/kota), dan Polsek (kecamatan).",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Kepala Kepolisian Negara Republik Indonesia yang pertama adalah …",
+      "pilihan": [
+        "Soetjipto Judodihardjo",
+        "Raden Said Soekanto Tjokrodiatmodjo",
+        "Awaluddin Djamin",
+        "Hoegeng Imam Santoso"
+      ],
+      "kunci": 1,
+      "bahasan": "R.S. Soekanto adalah Kapolri pertama (1945–1959) dan dikenal sebagai bapak kepolisian Indonesia. Hoegeng Imam Santoso dan Awaluddin Djamin menjabat pada periode yang jauh lebih kemudian.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Provinsi dengan jumlah penduduk terbanyak di Indonesia adalah …",
+      "pilihan": [
+        "Jawa Barat",
+        "DKI Jakarta",
+        "Jawa Tengah",
+        "Jawa Timur"
+      ],
+      "kunci": 0,
+      "bahasan": "Berdasarkan data Badan Pusat Statistik, Jawa Barat adalah provinsi berpenduduk terbanyak di Indonesia (sekitar 50 juta jiwa), disusul Jawa Timur dan Jawa Tengah.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Sungai terpanjang di Indonesia adalah Sungai …",
+      "pilihan": [
+        "Mahakam",
+        "Barito",
+        "Kapuas",
+        "Musi"
+      ],
+      "kunci": 2,
+      "bahasan": "Sungai Kapuas di Kalimantan Barat adalah sungai terpanjang di Indonesia dengan panjang sekitar 1.143 km, bermuara di Selat Karimata dekat Pontianak.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Konferensi Asia-Afrika tahun 1955 diselenggarakan di kota …",
+      "pilihan": [
+        "Jakarta",
+        "Yogyakarta",
+        "Bogor",
+        "Bandung"
+      ],
+      "kunci": 3,
+      "bahasan": "Konferensi Asia-Afrika berlangsung 18–24 April 1955 di Gedung Merdeka, Bandung, dan menghasilkan Dasasila Bandung. Bogor adalah lokasi pertemuan persiapan oleh negara sponsor.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Lembaga negara yang berwenang menguji undang-undang terhadap Undang-Undang Dasar 1945 adalah …",
+      "pilihan": [
+        "Mahkamah Konstitusi",
+        "Mahkamah Agung",
+        "Komisi Yudisial",
+        "Dewan Perwakilan Rakyat"
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 24C UUD 1945 memberi Mahkamah Konstitusi kewenangan menguji undang-undang terhadap UUD. Mahkamah Agung menguji peraturan di bawah undang-undang terhadap undang-undang.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "ASEAN didirikan pada 8 Agustus 1967 melalui Deklarasi …",
+      "pilihan": [
+        "Kuala Lumpur",
+        "Bangkok",
+        "Manila",
+        "Jakarta"
+      ],
+      "kunci": 1,
+      "bahasan": "ASEAN didirikan melalui Deklarasi Bangkok yang ditandatangani lima negara pendiri: Indonesia, Malaysia, Filipina, Singapura, dan Thailand.",
+      "topik": "Pengetahuan Umum"
+    },
+    {
+      "tanya": "Pancasila sebagai dasar negara Republik Indonesia tercantum dalam Pembukaan UUD 1945 alinea …",
+      "pilihan": [
+        "pertama",
+        "kedua",
+        "keempat",
+        "ketiga"
+      ],
+      "kunci": 2,
+      "bahasan": "Rumusan Pancasila sebagai dasar negara terdapat pada alinea keempat Pembukaan UUD 1945: \"...maka disusunlah Kemerdekaan Kebangsaan Indonesia itu dalam suatu Undang-Undang Dasar Negara Indonesia... berdasar kepada Ketuhanan Yang Maha Esa...\" dan seterusnya.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Piagam Jakarta, yang memuat rumusan awal dasar negara, ditandatangani pada tanggal …",
+      "pilihan": [
+        "18 Agustus 1945",
+        "17 Agustus 1945",
+        "1 Juni 1945",
+        "22 Juni 1945"
+      ],
+      "kunci": 3,
+      "bahasan": "Piagam Jakarta ditandatangani Panitia Sembilan pada 22 Juni 1945. Tanggal 1 Juni 1945 adalah pidato Soekarno tentang dasar negara, dan 18 Agustus 1945 adalah pengesahan UUD 1945 oleh PPKI dengan perubahan sila pertama.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Menurut Pasal 28J ayat (2) UUD 1945, dalam menjalankan hak dan kebebasannya setiap orang wajib tunduk kepada pembatasan yang ditetapkan dengan …",
+      "pilihan": [
+        "peraturan pemerintah",
+        "keputusan presiden",
+        "peraturan daerah",
+        "undang-undang"
+      ],
+      "kunci": 3,
+      "bahasan": "Pasal 28J ayat (2) menegaskan pembatasan hak asasi hanya dapat ditetapkan dengan undang-undang, semata-mata untuk menjamin pengakuan serta penghormatan atas hak orang lain dan memenuhi tuntutan yang adil sesuai pertimbangan moral, nilai agama, keamanan, dan ketertiban umum.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Pasal 33 ayat (3) UUD 1945 menyatakan bahwa bumi dan air serta kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk …",
+      "pilihan": [
+        "pembangunan infrastruktur nasional",
+        "sebesar-besar kemakmuran rakyat",
+        "kepentingan pertahanan negara",
+        "kesejahteraan aparatur negara"
+      ],
+      "kunci": 1,
+      "bahasan": "Pasal 33 ayat (3) UUD 1945: \"Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.\"",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Ketentuan \"Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar\" tercantum dalam UUD 1945 Pasal …",
+      "pilihan": [
+        "4 ayat (1)",
+        "7 ayat (1)",
+        "10",
+        "5 ayat (1)"
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 4 ayat (1) UUD 1945 memuat kekuasaan pemerintahan oleh Presiden. Pasal 5 ayat (1) mengatur hak Presiden mengajukan rancangan undang-undang kepada DPR.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Menurut Pasal 20 ayat (1) UUD 1945, kekuasaan membentuk undang-undang dipegang oleh …",
+      "pilihan": [
+        "Dewan Perwakilan Daerah",
+        "Presiden",
+        "Dewan Perwakilan Rakyat",
+        "Majelis Permusyawaratan Rakyat"
+      ],
+      "kunci": 2,
+      "bahasan": "Pasal 20 ayat (1) UUD 1945: \"Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang.\" Setiap rancangan undang-undang dibahas DPR bersama Presiden untuk mendapat persetujuan bersama.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Rumusan lengkap semboyan negara dalam Kitab Sutasoma adalah \"Bhinneka Tunggal Ika, Tan Hana Dharma Mangrwa\", yang berarti …",
+      "pilihan": [
+        "satu nusa, satu bangsa, satu bahasa",
+        "bersatu kita teguh, bercerai kita runtuh",
+        "berbeda-beda tetapi tetap satu, tidak ada kebenaran yang mendua",
+        "beraneka ragam tetapi satu tujuan, tidak ada dusta dalam kebenaran"
+      ],
+      "kunci": 2,
+      "bahasan": "Tan Hana Dharma Mangrwa berarti \"tidak ada kebenaran yang mendua/bercabang\". Semboyan ini semula menggambarkan kerukunan beragama (Siwa dan Buddha) di Majapahit, kemudian diangkat menjadi semboyan persatuan bangsa.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Salah satu ikrar Sumpah Pemuda 28 Oktober 1928 adalah mengaku berbahasa satu, yaitu …",
+      "pilihan": [
+        "bahasa persatuan daerah",
+        "bahasa Jawa",
+        "bahasa Melayu",
+        "bahasa Indonesia"
+      ],
+      "kunci": 3,
+      "bahasan": "Ikrar Sumpah Pemuda: satu tanah air (Indonesia), satu bangsa (Indonesia), dan menjunjung bahasa persatuan, bahasa Indonesia. Bahasa Indonesia memang berakar dari bahasa Melayu, tetapi ikrar menyebutnya bahasa Indonesia.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Bunyi Pasal 1 ayat (1) UUD 1945 adalah …",
+      "pilihan": [
+        "\"Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.\"",
+        "\"Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.\"",
+        "\"Negara berdasar atas Ketuhanan Yang Maha Esa.\"",
+        "\"Negara Indonesia adalah negara hukum.\""
+      ],
+      "kunci": 0,
+      "bahasan": "Pasal 1 ayat (1) menegaskan bentuk negara. \"Negara Indonesia adalah negara hukum\" tercantum pada Pasal 1 ayat (3), dan kedaulatan rakyat pada Pasal 1 ayat (2).",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Konsepsi Wawasan Nusantara pada dasarnya dikembangkan untuk menjamin …",
+      "pilihan": [
+        "keunggulan kekuatan maritim Indonesia atas negara tetangga",
+        "persatuan dan kesatuan bangsa serta keutuhan wilayah Negara Kesatuan Republik Indonesia",
+        "pemerataan pembangunan antarpulau besar saja",
+        "penguasaan sumber daya alam oleh pemerintah pusat"
+      ],
+      "kunci": 1,
+      "bahasan": "Wawasan Nusantara adalah konsepsi geopolitik Indonesia: cara pandang bangsa terhadap diri dan lingkungannya yang menjamin kelangsungan hidup, persatuan-kesatuan, dan keutuhan wilayah NKRI sebagai satu kesatuan politik, ekonomi, sosial-budaya, dan pertahanan-keamanan.",
+      "topik": "Wawasan Kebangsaan"
+    },
+    {
+      "tanya": "Kalimat yang menggunakan huruf kapital sesuai PUEBI adalah …",
+      "pilihan": [
+        "Kepala Kepolisian Daerah Jawa Tengah menghadiri upacara di Kabupaten Kendal pada hari Senin.",
+        "Kepala Kepolisian Daerah Jawa Tengah menghadiri Upacara di kabupaten Kendal pada hari Senin.",
+        "Kepala Kepolisian Daerah Jawa tengah menghadiri upacara di Kabupaten Kendal pada hari Senin.",
+        "kepala Kepolisian Daerah Jawa Tengah menghadiri upacara di Kabupaten Kendal pada Hari Senin."
+      ],
+      "kunci": 0,
+      "bahasan": "Nama lembaga (Kepolisian Daerah Jawa Tengah), nama geografis (Kabupaten Kendal), dan nama hari (Senin) ditulis dengan huruf kapital; kata \"upacara\" bukan nama diri sehingga tidak dikapitalkan. Pilihan lain masing-masing mengandung kesalahan kapitalisasi.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Bentuk baku dari kata \"apotik\" adalah …",
+      "pilihan": [
+        "apotik",
+        "apotiknya",
+        "apotek",
+        "apoteek"
+      ],
+      "kunci": 2,
+      "bahasan": "Menurut KBBI, bentuk baku tempat menjual obat adalah \"apotek\". \"Apotik\" adalah bentuk tidak baku yang masih sering dijumpai pada papan nama.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Kata baku dari \"diagnosa\" (hasil pemeriksaan dokter) adalah …",
+      "pilihan": [
+        "diagnoza",
+        "diagnosis",
+        "diagnosah",
+        "diagnosa"
+      ],
+      "kunci": 1,
+      "bahasan": "KBBI mencatat bentuk baku \"diagnosis\" untuk penentuan jenis penyakit berdasarkan pemeriksaan gejala. \"Diagnosa\" adalah bentuk tidak baku.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Bacalah paragraf berikut.\n\"Unit Binmas Polsek Genuk membuka taman bacaan keliling untuk anak-anak pesisir. Setiap Sabtu, petugas membawa ratusan buku dengan mobil dinas ke kampung nelayan. Anak-anak dapat meminjam buku secara gratis selama satu minggu. Kegiatan ini bertujuan menumbuhkan minat baca sejak dini.\"\n\nIde pokok paragraf tersebut adalah …",
+      "pilihan": [
+        "pentingnya menumbuhkan minat baca sejak dini",
+        "anak-anak boleh meminjam buku secara gratis selama satu minggu",
+        "petugas membawa ratusan buku dengan mobil dinas setiap Sabtu",
+        "pembukaan taman bacaan keliling oleh Unit Binmas untuk anak-anak pesisir"
+      ],
+      "kunci": 3,
+      "bahasan": "Ide pokok terletak pada kalimat utama di awal paragraf: Unit Binmas membuka taman bacaan keliling untuk anak-anak pesisir. Pilihan lain adalah kalimat penjelas (rincian pelaksanaan dan tujuan kegiatan).",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Kalimat yang paling efektif adalah …",
+      "pilihan": [
+        "Para peserta-peserta seleksi dimohon untuk hadir tepat waktu.",
+        "Kepada para peserta seleksi, dimohon kehadirannya agar supaya tepat waktu.",
+        "Peserta seleksi yang hadir tepat waktu adalah merupakan syarat utama kelulusan.",
+        "Para peserta seleksi dimohon hadir tepat waktu."
+      ],
+      "kunci": 3,
+      "bahasan": "Kalimat efektif menghindari pengulangan yang mubazir. \"Para peserta-peserta\" menggandakan penanda jamak, \"agar supaya\" dan \"adalah merupakan\" adalah pasangan kata yang berlebihan.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Ia tetap berangkat mengikuti seleksi … kakinya masih terkilir.\nKonjungsi yang tepat untuk melengkapi kalimat tersebut adalah …",
+      "pilihan": [
+        "karena",
+        "sehingga",
+        "walaupun",
+        "agar"
+      ],
+      "kunci": 2,
+      "bahasan": "Hubungan antarklausa dalam kalimat itu bersifat pertentangan (tetap berangkat padahal terkilir), sehingga konjungsi yang tepat adalah \"walaupun\". \"Karena\" menyatakan sebab, \"sehingga\" akibat, dan \"agar\" tujuan.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Petugas … formulir pendaftaran kepada calon siswa satu per satu.\nKata berimbuhan yang tepat untuk melengkapi kalimat tersebut adalah …",
+      "pilihan": [
+        "menyerahkan",
+        "penyerahan",
+        "serah",
+        "diserahkan"
+      ],
+      "kunci": 0,
+      "bahasan": "Subjek \"petugas\" melakukan tindakan aktif menyerahkan sesuatu kepada orang lain, sehingga bentuk yang tepat adalah kata kerja aktif berimbuhan me-...-kan: \"menyerahkan\". \"Penyerahan\" adalah nomina dan \"diserahkan\" adalah bentuk pasif.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Dalam sebuah laporan tertulis: \"Perubahan nilai peserta setelah bimbingan ternyata signifikan.\" Makna kata \"signifikan\" dalam kalimat tersebut adalah …",
+      "pilihan": [
+        "tidak jelas dan meragukan",
+        "penting dan berarti; cukup besar untuk diperhatikan",
+        "sangat kecil dan dapat diabaikan",
+        "bersifat sementara"
+      ],
+      "kunci": 1,
+      "bahasan": "Menurut KBBI, \"signifikan\" berarti penting; berarti. Dalam konteks data, perubahan signifikan adalah perubahan yang cukup besar dan bermakna, bukan perubahan kecil yang dapat diabaikan.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Antonim kata \"eksklusif\" adalah …",
+      "pilihan": [
+        "elitis",
+        "istimewa",
+        "inklusif",
+        "terbatas"
+      ],
+      "kunci": 2,
+      "bahasan": "\"Eksklusif\" berarti terbatas untuk kalangan tertentu; lawan katanya \"inklusif\" (terbuka, mencakup semua pihak). Elitis, terbatas, dan istimewa justru berdekatan maknanya dengan eksklusif.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Kalimat dengan penggunaan tanda petik untuk kutipan langsung yang benar adalah …",
+      "pilihan": [
+        "Kapolri berpesan: Seluruh tahapan seleksi penerimaan Polri tidak dipungut biaya.",
+        "Kapolri berpesan, \"Seluruh tahapan seleksi penerimaan Polri tidak dipungut biaya.\"",
+        "Kapolri berpesan, 'Seluruh tahapan seleksi penerimaan Polri tidak dipungut biaya.'",
+        "Kapolri berpesan, \"Seluruh tahapan seleksi penerimaan Polri tidak dipungut biaya\"."
+      ],
+      "kunci": 1,
+      "bahasan": "Menurut PUEBI, petikan langsung diapit tanda petik dua (\"...\") dan tanda titik akhir kalimat diletakkan sebelum tanda petik penutup. Kutipan langsung tidak cukup hanya didahului tanda titik dua tanpa tanda petik.",
+      "topik": "Bahasa Indonesia"
+    },
+    {
+      "tanya": "Sebuah tas berharga Rp150.000. Toko memberikan diskon 25%. Berapa rupiah yang harus dibayar pembeli?",
+      "pilihan": [
+        "Rp112.500",
+        "Rp120.000",
+        "Rp37.500",
+        "Rp97.500"
+      ],
+      "kunci": 0,
+      "bahasan": "Potongan harga = 25% × Rp150.000 = Rp37.500. Yang dibayar = Rp150.000 − Rp37.500 = Rp112.500.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Perbandingan jumlah calon siswa laki-laki dan perempuan dalam satu kelas latihan adalah 3 : 2. Jika jumlah seluruh calon siswa 90 orang, berapa jumlah calon siswa perempuan?",
+      "pilihan": [
+        "37",
+        "18",
+        "54",
+        "36"
+      ],
+      "kunci": 3,
+      "bahasan": "Jumlah perbandingan = 3 + 2 = 5. Nilai satu bagian = 90 ÷ 5 = 18. Calon siswa perempuan = 2 × 18 = 36 orang.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Nilai lima kali latihan seorang calon siswa adalah 91, 68, 66, 63, 67. Nilai rata-rata calon siswa tersebut adalah …",
+      "pilihan": [
+        "73",
+        "69",
+        "71",
+        "76"
+      ],
+      "kunci": 2,
+      "bahasan": "Jumlah nilai = 91 + 68 + 66 + 63 + 67 = 355. Rata-rata = 355 ÷ 5 = 71.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Huruf berikutnya dari deret B, E, H, K, N, … adalah …",
+      "pilihan": [
+        "T",
+        "Q",
+        "R",
+        "P"
+      ],
+      "kunci": 1,
+      "bahasan": "Setiap huruf maju 3 langkah dalam alfabet: B → E → H → K → N → Q.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Suku berikutnya dari deret 5, 10, 20, 40, … adalah …",
+      "pilihan": [
+        "120",
+        "75",
+        "160",
+        "80"
+      ],
+      "kunci": 3,
+      "bahasan": "Deret ini berpola kali 2 setiap suku: 5, 10, 20, 40, lalu 40 × 2 = 80.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Berapakah 25% dari 360?",
+      "pilihan": [
+        "90",
+        "180",
+        "126",
+        "72"
+      ],
+      "kunci": 0,
+      "bahasan": "25% dari 360 = 25/100 × 360 = 90.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Suku berikutnya dari deret 6, 17, 28, 39, 50, … adalah …",
+      "pilihan": [
+        "61",
+        "72",
+        "83",
+        "50"
+      ],
+      "kunci": 0,
+      "bahasan": "Deret ini berpola tambah 11 setiap suku: 6, 17, 28, 39, 50, lalu 50 + 11 = 61.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Sebuah mobil patroli menempuh jarak 120 km dalam waktu 6 jam dengan kecepatan tetap. Kecepatan rata-rata mobil tersebut adalah …",
+      "pilihan": [
+        "40 km/jam",
+        "30 km/jam",
+        "20 km/jam",
+        "35 km/jam"
+      ],
+      "kunci": 2,
+      "bahasan": "Kecepatan = jarak ÷ waktu = 120 ÷ 6 = 20 km/jam.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Seorang pedagang membeli barang seharga Rp430.000 dan menjualnya kembali seharga Rp451.500. Persentase keuntungan pedagang tersebut adalah …",
+      "pilihan": [
+        "10%",
+        "20%",
+        "15%",
+        "5%"
+      ],
+      "kunci": 3,
+      "bahasan": "Untung = Rp451.500 − Rp430.000 = Rp21.500. Persentase untung = 21.500 ÷ 430.000 × 100% = 5%.",
+      "topik": "Penalaran Numerik"
+    },
+    {
+      "tanya": "Harga 3 buku dan 2 pensil adalah Rp25.000, sedangkan harga 1 buku dan 4 pensil adalah Rp15.000. Harga 2 buku dan 3 pensil adalah …",
+      "pilihan": [
+        "Rp27.000",
+        "Rp20.000",
+        "Rp18.000",
+        "Rp25.000"
+      ],
+      "kunci": 1,
+      "bahasan": "Misalkan harga buku x dan pensil y. Dari kedua persamaan diperoleh x = Rp7.000 dan y = Rp2.000 (eliminasi: kalikan persamaan kedua dengan 3 lalu kurangkan). Maka 2x + 3y = Rp14.000 + Rp6.000 = Rp20.000.",
+      "topik": "Penalaran Numerik"
+    }
+  ]
+}
